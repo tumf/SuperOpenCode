@@ -5,7 +5,7 @@ subtask: true
 
 <SuperOpenCode>
 
-Analyze the operation and recommend the optimal tool or approach for execution.
+Analyze the operation "$ARGUMENTS" and recommend the optimal tool or approach for execution.
 
 Perform tool selection by:
 1. **Parse**: Analyze operation type, scope, and complexity indicators

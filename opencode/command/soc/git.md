@@ -4,7 +4,7 @@ description: "Git operations with intelligent commit messages and workflow optim
 
 <SuperOpenCode>
 
-Execute Git operations with intelligent automation and workflow optimization.
+Execute Git operations "$ARGUMENTS" with intelligent automation and workflow optimization.
 
 Perform Git operations with:
 1. **Analyze**: Check repository state and working directory changes
